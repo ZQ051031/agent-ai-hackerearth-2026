@@ -1,0 +1,11 @@
+{
+  "name": "lead-relay",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "demo": "node src/demo.js",
+    "test": "node --test test/*.test.js"
+  }
+}
